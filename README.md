@@ -116,4 +116,4 @@ flutter run --release
 ---
 
 ## Author
-* **Nicola Sebastianelli** — [GitHub Profile](https://github.com/Sebastianelli-Nicola) — [LinkedIn](https://www.linkedin.com/)
+* **Nicola Sebastianelli** — [GitHub Profile](https://github.com/Sebastianelli-Nicola)
